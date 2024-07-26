@@ -1,7 +1,7 @@
 # Scientific Calculator
 
 A fully functional scientific calculator built using HTML, CSS, and JavaScript.
-
+<br>
 <p align="center">
   <a href="https://github.com/Pavith19/Scientific-Calculator/">
     <img src="images/calculator.png" alt="Scientific Calculator" width="690" height="520">
