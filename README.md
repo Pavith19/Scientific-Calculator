@@ -30,3 +30,23 @@ The back button works intelligently. If pressed after a calculation, it clears t
 ### Intelligent Input Interpretation
 The calculator can understand user inputs even without proper parentheses or multiplication signs. For example:
 
+ ```sh
+15√(3+5!7π)sin(60°)^ln(log(5)e)7!  -->  15 × √(3 + 5! × 7 × π) × sin(60°) × ln(log(5) × e) × 7!
+
+3sin(60)4  -->  3 × sin(60) × 4
+
+3sin(60×4)  -->  3 × sin(60 × 4)
+
+4²3²√(5+6)  -->  4² × 3² × √(5 + 6)
+
+4²3²√(5)6  -->  4² × 3² × √(5) × 6
+
+4%3  -->  4% × 3  -->  0.04 × 3
+
+4^(3)πe  -->  (4^3) × π × e
+
+4^(3πe)  -->  4^(3 × π × e)
+
+3!5  -->  3! × 5
+```
+
