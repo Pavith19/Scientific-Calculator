@@ -13,7 +13,7 @@ Welcome to the Scientific Calculator repository! This fully functional calculato
 </p>
 <br>
 <p align="center">
-  <a href="https://github.com/Pavith19/Scientific-Calculator">
+  <a href="https://pavith19.github.io/Scientific-Calculator/">
     <img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/try-now-btn.png?raw=true" alt="run-button" height="60px" />
   </a>
 </p>
