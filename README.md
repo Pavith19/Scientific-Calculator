@@ -24,7 +24,7 @@ Welcome to the Scientific Calculator repository! This fully functional calculato
 
 ## Key Highlights
 
-### 🚀Smart Backspace
+### 🚀 Smart Backspace
 The back button works intelligently. If pressed after a calculation, it clears the entire input. Otherwise, it deletes only the last character.
 
 ### Intelligent Input Interpretation
