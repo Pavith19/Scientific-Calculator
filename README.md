@@ -1,3 +1,8 @@
+<!--
+-- Author: Pavith Bambaravanage
+-- URL: https://github.com/Pavith19
+-->
+
 [![GitHub Written in](https://img.shields.io/badge/Written%20in-HTML%20%7C%20CSS%20%7C%20JavaScript-blue)](https://shields.io/)&nbsp;&nbsp;&nbsp;
 [![GitHub last commit](https://img.shields.io/github/last-commit/Pavith19/Scientific-Calculator)](https://github.com/Pavith19/Scientific-Calculator/commits/main)&nbsp;&nbsp;&nbsp;
 [![GitHub repo size](https://img.shields.io/github/repo-size/Pavith19/Scientific-Calculator)](https://github.com/Pavith19/Scientific-Calculator/archive/main.zip)&nbsp;&nbsp;&nbsp;
