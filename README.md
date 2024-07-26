@@ -29,7 +29,7 @@ Welcome to the Scientific Calculator repository! This fully functional calculato
 - **Parentheses Balancing Check:** Ensures all parentheses are balanced using a Stack data structure.
 - **Intelligent Backspace Functionality:** Context-sensitive backspace action.
 
-## Key Highlights
+## [Key Highlights]()
 
 ### 🚀 Smart Backspace
 The back button works intelligently. If pressed after a calculation, it clears the entire input. Otherwise, it deletes only the last character.
@@ -58,14 +58,14 @@ The calculator checks if all parentheses are balanced in the input expression us
 ### 🚀 Keyboard Input
 The calculator supports input through both mouse clicks and keyboard button presses.
 
-## Technology Used
+## [Technology Used]()
 
 - **JavaScript:** Handles application logic and DOM manipulation.
 - **HTML5:** Provides the structure for web pages.
 - **CSS3:** Manages responsive design and layout aesthetics.
 - **Bootstrap:** Facilitates the creation of responsive and consistent interfaces.
 
-## Installation
+## [Installation]()
 
 Clone the repository and open `index.html` in a web browser.
 
