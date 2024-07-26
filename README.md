@@ -11,13 +11,13 @@ Welcome to the Scientific Calculator repository! This fully functional calculato
     <img src="images/calculator.png" alt="Scientific Calculator" width="590" height="450">
   </a>
 </p>
-
+<br>
 <p align="center">
   <a href="https://github.com/Pavith19/Scientific-Calculator">
     <img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/try-now-btn.png?raw=true" alt="run-button" height="60px" />
   </a>
 </p>
-
+<br>
 ## Features
 
 - **Basic Arithmetic Operations:** Addition, subtraction, multiplication, division, square roots and exponents.
