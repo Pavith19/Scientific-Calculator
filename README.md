@@ -3,7 +3,8 @@
 # Scientific Calculator
 
 Welcome to the Scientific Calculator repository! This fully functional calculator, built with HTML, CSS and JavaScript, provides basic arithmetic operations, advanced math functions and supports both keyboard and mouse input.
-
+<br>
+<br>
 <p align="center">
   <a href="https://github.com/Pavith19/Scientific-Calculator">
     <img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/try-now-btn.png?raw=true" alt="run-button" height="40px" />
