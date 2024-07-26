@@ -19,7 +19,7 @@ Welcome to the Scientific Calculator repository! This fully functional calculato
 </p>
 <br>
 
-## Features
+## [Features]()
 
 - **Basic Arithmetic Operations:** Addition, subtraction, multiplication, division, square roots and exponents.
 - **Advanced Mathematical Functions:** sin, cos, tan, log, ln, etc.
