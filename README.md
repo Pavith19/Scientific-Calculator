@@ -18,6 +18,7 @@ Welcome to the Scientific Calculator repository! This fully functional calculato
   </a>
 </p>
 <br>
+
 ## Features
 
 - **Basic Arithmetic Operations:** Addition, subtraction, multiplication, division, square roots and exponents.
