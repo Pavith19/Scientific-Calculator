@@ -12,7 +12,6 @@ Welcome to the Scientific Calculator repository! This fully functional calculato
 </p>
 
 <br>
-<br>
 <p align="center">
   <a href="https://github.com/Pavith19/Scientific-Calculator/">
     <img src="images/calculator.png" alt="Scientific Calculator" width="590" height="450">
