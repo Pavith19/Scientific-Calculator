@@ -44,7 +44,12 @@ The calculator checks if all parentheses are balanced in the input expression us
 
  ```sh
     abs(-5)) ---> Error displayed: closing bracket has been used before an opening bracket.
+
     (abs(-5) ---> Error displayed: brackets are not balanced.
  ```
+
+### Keyboard Input
+The calculator supports input through both mouse clicks and keyboard button presses.
+
 
 
