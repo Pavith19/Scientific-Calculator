@@ -14,7 +14,7 @@ Welcome to the Scientific Calculator repository! This fully functional calculato
 
 ## Features
 
-- **Basic Arithmetic Operations:** Addition, subtraction, multiplication, division.
+- **Basic Arithmetic Operations:** Addition, subtraction, multiplication, division, square roots and exponents.
 - **Advanced Mathematical Functions:** sin, cos, tan, log, ln, etc.
 - **Constants:** π, e.
 - **Keyboard Input Support:** Seamless integration with keyboard inputs.
