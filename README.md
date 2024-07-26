@@ -1,6 +1,7 @@
 # Scientific Calculator
 
-A fully functional scientific calculator built using HTML, CSS, and JavaScript.
+Welcome to the Scientific Calculator repository! A fully functional scientific calculator built with HTML, CSS and JavaScript. Includes basic arithmetic, advanced functions and supports keyboard input.
+
 <br>
 <br>
 <p align="center">
