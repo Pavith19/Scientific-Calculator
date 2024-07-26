@@ -39,3 +39,12 @@ The calculator can understand user inputs even without proper parentheses or mul
 
 ```
 
+### Parentheses Balancing
+The calculator checks if all parentheses are balanced in the input expression using a Stack data structure. It displays appropriate errors for unbalanced parentheses:
+
+ ```sh
+    abs(-5)) ---> Error displayed: closing bracket has been used before an opening bracket.
+    (abs(-5) ---> Error displayed: brackets are not balanced.
+ ```
+
+
