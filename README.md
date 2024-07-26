@@ -1,8 +1,9 @@
-<div style="text-align: center;">
+<p align="center">
   <a href="https://github.com/Pavith19/Scientific-Calculator/">
     <img src="images/calculator.png" alt="Scientific Calculator" width="690" height="520">
   </a>
-</div>
+</p>
+
 
 
 # Scientific Calculator
