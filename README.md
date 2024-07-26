@@ -75,7 +75,6 @@ I welcome contributions to enhance the Scientific Calculator project!
 
 - **Improve Existing Code:** Optimize or refine the current implementation.
 - **Add Features:** Implement new features or functionalities to enhance the calculator.
-- **Support Multiple Languages:** Extend the calculator with solutions or features in other programming languages.
 - **Enhance Documentation:** Help improve the README, code comments or other documentation.
 
 ## [License]()
