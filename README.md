@@ -1,5 +1,5 @@
 <a href="https://github.com/Pavith19/Scientific-Calculator/">
-  <img src="images/calculator.png" alt="Scientific Calculator" width="800" height="600">
+  <img src="images/calculator.png" alt="Scientific Calculator" width="750" height="500">
 </a>
 
 # Scientific Calculator
