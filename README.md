@@ -58,5 +58,17 @@ The calculator checks if all parentheses are balanced in the input expression us
 ### 🚀 Keyboard Input
 The calculator supports input through both mouse clicks and keyboard button presses.
 
+## Technology Used
+
+- **JavaScript:** Handles application logic and DOM manipulation.
+- **HTML5:** Provides the structure for web pages.
+- **CSS3:** Manages responsive design and layout aesthetics.
+- **Bootstrap:** Facilitates the creation of responsive and consistent interfaces.
+
+## Installation
+
+Clone the repository and open `index.html` in a web browser.
+
+
 
 
