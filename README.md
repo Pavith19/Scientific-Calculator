@@ -1,6 +1,8 @@
+
+
 # Scientific Calculator
 
-Welcome to the Scientific Calculator repository! A fully functional scientific calculator built with HTML, CSS and JavaScript. Includes basic arithmetic, advanced functions and supports keyboard input.
+Welcome to the Scientific Calculator repository! This fully functional calculator, built with HTML, CSS and JavaScript, provides basic arithmetic operations, advanced math functions and supports both keyboard and mouse input.
 
 <br>
 <br>
