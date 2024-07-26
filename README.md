@@ -8,7 +8,7 @@ Welcome to the Scientific Calculator repository! This fully functional calculato
 <br>
 <p align="center">
   <a href="https://github.com/Pavith19/Scientific-Calculator/">
-    <img src="images/calculator.png" alt="Scientific Calculator" width="610" height="440">
+    <img src="images/calculator.png" alt="Scientific Calculator" width="590" height="440">
   </a>
 </p>
 
