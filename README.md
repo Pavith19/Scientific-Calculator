@@ -7,7 +7,7 @@ Welcome to the Scientific Calculator repository! This fully functional calculato
 <br>
 <p align="center">
   <a href="https://github.com/Pavith19/Scientific-Calculator">
-    <img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/try-now-btn.png?raw=true" alt="run-button" height="40px" />
+    <img src="https://github.com/mirokrastanov/Software-Engineering-SoftUni/blob/main/miscellaneous/try-now-btn.png?raw=true" alt="run-button" height="60px" />
   </a>
 </p>
 
