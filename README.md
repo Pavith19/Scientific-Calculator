@@ -27,7 +27,7 @@ Welcome to the Scientific Calculator repository! This fully functional calculato
 ### 🚀 Smart Backspace
 The back button works intelligently. If pressed after a calculation, it clears the entire input. Otherwise, it deletes only the last character.
 
-### Intelligent Input Interpretation
+### 🚀 Intelligent Input Interpretation
 The calculator can understand user inputs even without proper parentheses or multiplication signs. For example:
 
 ```sh
@@ -39,7 +39,7 @@ The calculator can understand user inputs even without proper parentheses or mul
 
 ```
 
-### Parentheses Balancing
+### 🚀 Parentheses Balancing
 The calculator checks if all parentheses are balanced in the input expression using a Stack data structure. It displays appropriate errors for unbalanced parentheses:
 
  ```sh
@@ -48,7 +48,7 @@ The calculator checks if all parentheses are balanced in the input expression us
     (abs(-5) ---> Error displayed: brackets are not balanced.
  ```
 
-### Keyboard Input
+### 🚀 Keyboard Input
 The calculator supports input through both mouse clicks and keyboard button presses.
 
 
