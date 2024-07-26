@@ -36,7 +36,7 @@ Welcome to the Scientific Calculator repository! This fully functional calculato
 - **Smart Input Interpretation:** Understands inputs even without proper parentheses or multiplication signs.
 - **Parentheses Balancing Check:** Ensures all parentheses are balanced using a Stack data structure.
 - **Intelligent Backspace Functionality:** Context-sensitive backspace action.
--  **Responsive Design:** Fully optimized for both mobile and desktop devices, providing a seamless experience across different screen sizes.
+- **Responsive Design:** Optimized for both mobile and desktop devices.
 
 
 ## [Key Highlights]()
